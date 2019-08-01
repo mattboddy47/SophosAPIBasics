@@ -1,8 +1,7 @@
 import requests
 
 #within the url input both the Sophos Central url followed by the api call you want to make
-#I provide the example of the endpoint information in the Central API
-url = 'https://api3.central.sophos.com/gateway/migration-tool/v1/endpoints'
+url = 'INPUTURLHERE'
 # add your API keys provided within Sophos Central here
 headers = {'x-api-key': 'YOURAPIKEYHERE',
            'Authorization': 'YOURAUTHKEYHERE'}
